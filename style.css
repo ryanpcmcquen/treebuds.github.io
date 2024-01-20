@@ -1,8 +1,8 @@
 a {
     cursor: pointer;
-    transition: all 0.1s ease-in;
+    transition: all 0.25s ease-in;
 }
 
 a img:hover {
-    box-shadow: 0 1px 1px 1px #777777;
+    box-shadow: 5px 5px 5px 1px #555155;
 }
