@@ -2,6 +2,6 @@ a {
     cursor: pointer;
 }
 
-a:hover img {
-    box-shadow: 0 2px 2px 2px #777777;
+a img:hover {
+    box-shadow: 0 1px 1px 1px #777777;
 }
