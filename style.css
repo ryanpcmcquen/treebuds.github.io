@@ -6,3 +6,7 @@ a {
 a img:hover {
     box-shadow: 1px 1px 1px 1px #555155;
 }
+
+iframe {
+    width: 60vw;
+}
